@@ -3,11 +3,8 @@
 -操作包括有对比度调整，各种滤波，直方图均衡，以及各种频域处理
 
 # Images 
-- ![test_example](https://github.com/Mountchicken/Chinese2English-Translator-with-Transformers/tree/main/Image_github/one.png)
-- ![test_example](https://github.com/Mountchicken/Chinese2English-Translator-with-Transformers/tree/main/Image_github/two.png)
-- ![test_example](https://github.com/Mountchicken/Chinese2English-Translator-with-Transformers/tree/main/Image_github/three.png)
-- ![test_example](https://github.com/Mountchicken/Chinese2English-Translator-with-Transformers/tree/main/Image_github/four.png)
-
+- ![test_example](https://github.com/Mountchicken/Image-Processing-Laboratory/blob/main/image1.JPG)
+- ![test_example](https://github.com/Mountchicken/Image-Processing-Laboratory/blob/main/image2.JPG)
 # How to use
 - 用matlab打开Processing_Labotray.mlapp，运行即可
 - 
